@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 5px solid purple;
+    padding: 5px 20px;
+}
+
+nav {
+    display: flex;
+    gap:10px;
+}
